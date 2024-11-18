@@ -27,10 +27,10 @@ const FixedImageTopRight = styled.div`
 
 const FixedImageBottomLeft = styled.div`
   position: fixed;
-  bottom: -100px;
+  bottom: 0px;
   left: -50px;
-  width: 500px;
-  height: 400px;
+  width: 200px;
+  height: 100px;
   background: url(${glitchGif}) no-repeat center center;
   background-size: contain;
   mix-blend-mode: screen;
