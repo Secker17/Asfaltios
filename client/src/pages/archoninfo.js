@@ -37,7 +37,7 @@ const FixedImageBottomLeft = styled.div`
   opacity: 0.8;
 `;
 
-/* Exaggerated glitch animation */
+/* Exaggerated glitch animation! */
 const glitchAnimation = keyframes`
   0% {
     clip: rect(0, 9999px, 0, 0);
